@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import altair as alt
-from sklearn
+import sklearn
 from sklearn.cluster import KMeans
 import streamlit as st
 
